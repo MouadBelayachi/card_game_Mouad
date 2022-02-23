@@ -19,8 +19,7 @@ class Player:
 
      self.history.append(card)
      self.cards.remove(card)
-     self.number_of_cards -= 1
-
+     self.number_of_cards -= 1     
      
 def remove_one(self):
    return self.cards.pop(0)    #to remove card from beginning of the list

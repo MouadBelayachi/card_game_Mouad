@@ -1,3 +1,5 @@
+# challenge-card-game-becode
+
 Developer Name : Mouad Belayachi    
 Level: Junior Data Analyst
 Organization: Becode AI Bootcamp
@@ -12,7 +14,8 @@ Description:
 
 Python Must have features of a basic level card game.
 
-Learning Objectives:
+
+- Learning Objectives:
 
 Manipulate classes.
 Use Object-Oriented-Programming (OOP).
@@ -28,6 +31,7 @@ Usage
   python main.py
 
 The Must have features :
+- The Must have features :
 
 Enter name for the 2 players of the game
 Each player receives 26 cards out of 52
