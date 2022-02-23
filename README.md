@@ -30,7 +30,6 @@ Usage
   cd card_game_challenge
   python main.py
 
-The Must have features :
 - The Must have features :
 
 Enter name for the 2 players of the game
